@@ -1,9 +1,9 @@
 <?
 	define("ROOT", "/var/zpanel/hostdata/zadmin/public_html/ironcoders_com/");
-	$host = "localhost"; 
-	$users = "ratbv"; 
-	$pass = "parola123"; 
-	$db = "zadmin_ratbv";
+	$host = "#"; 
+	$users = "#"; 
+	$pass = "#"; 
+	$db = "#";
 	// open connection 
 	$connection = mysql_connect($host, $users, $pass) or die ("Unable to connect!". mysql_error());
 	// select database 
