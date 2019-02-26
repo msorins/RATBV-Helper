@@ -28,4 +28,4 @@ It basically tells you what buses to get from point A to B (even if you need to 
 * MySQL
 
 
-> The Project was realised in High school (10th grade), in a team of 4 during a 24hackaton where we got the 1st place. I did the backend functionality
+> The Project was realised in High school (10th grade), in a team of 4 during a 24 hours hackaton where we got the 1st place. I wrote the backend functionality.
